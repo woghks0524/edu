@@ -1,0 +1,7 @@
+streamlit
+openai
+pdfplumber
+time
+gspread
+oauth2client.service_account
+datetime
